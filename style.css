@@ -5,7 +5,7 @@ body {
      width: 960px;
      font-size: 18px;
      padding-left: 15%;
-     padding-right: 15%;
+     padding-right: 10%;
 }
 
 .whiteBoxes {
@@ -68,7 +68,6 @@ aside {
     width: 450px;
     padding-bottom: 260px;
     
-
 }
 
 footer {
@@ -77,3 +76,9 @@ footer {
     margin-bottom: 15px;
     padding-bottom: 30px;
 }
+
+/* Things that bother me about this styling even though it looks right:
+    In the example, the Section box is more than 50% of the width of the header box.
+         I couldn't get that proportion to come out right by messing with the body padding, and I wasn't sure what else to try.
+    I feel like there should be a way to get the Aside to match the Section box in length without needing to guess at padding pixels.
+        I think it might be a display idea that I couldn't figure out. */
