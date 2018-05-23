@@ -1,0 +1,79 @@
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+     color: #777;
+     background: #777;
+     width: 960px;
+     font-size: 18px;
+     padding-left: 15%;
+     padding-right: 15%;
+}
+
+.whiteBoxes {
+    background: #ebebeb;
+    text-align: center;
+    padding-top: 30px;
+}
+
+header {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-bottom: 30px;
+}
+
+nav {
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+}
+
+section {
+    width: 495px;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+    float: left;
+
+}
+
+article {
+    background: #777;
+    color: white;
+    margin: 15px;
+    margin-top: 30px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+
+}
+
+#hBox {
+    background-color: #ebebeb;
+    color: #777;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    padding: 15px;
+}
+
+p {
+    background-color: #ebebeb;
+    color: #777;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    padding: 15px;
+}
+
+aside {
+    float: left;
+    width: 450px;
+    padding-bottom: 260px;
+    
+
+}
+
+footer {
+    clear: both;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-bottom: 30px;
+}
